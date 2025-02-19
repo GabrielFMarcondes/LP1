@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    char letra = 'Y';
+    printf("letra: %c\n", letra);
+    char proxima = letra + 1;
+    printf("proxima: %c\n", proxima);
+    printf("proxima: %c\n", proxima + 1);
+    printf("proxima: %c\n", proxima + 2);
+    printf("proxima: %c\n", proxima + 3);
+    printf("proxima: %c\n", proxima + 4);
+    printf("proxima: %c\n", proxima + 5);
+    printf("proxima: %c\n", proxima + 6);    
+    printf("proxima: %c\n", proxima + 7);
+    printf("proxima: %c\n", proxima + 8);
+    printf("proxima: %c\n", proxima + 9);
+    printf("proxima: %c\n", proxima + 10);
+    
+    return 0;
+}

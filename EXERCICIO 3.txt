@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+  float usd = 5.689;
+  printf("Cotação usd: %.3f\n", usd);
+  float euro = 5.941;
+  printf("Cotação euro: %.3f\n", euro);
+  float btc = 545841.812;
+  printf("Cotação btc: %.3f", btc);
+  return 0;
+}  
+
